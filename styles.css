@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    background-color:#ebebeb;
+    font-size:20px;
+    text-align:center;
+    font-family:'Roboto';
+}
+    .button {
+
+      background-color: #4caf50;
+
+      color: white;
+
+      padding: 14px 20px;
+
+      margin: 8px 0;
+
+      border: none;
+
+      /* cursor: pointer; */
+
+      //width: 100%;
+
+    }
+     button:hover {
+
+      opacity: 0.8;
+
+    }
+    #pass:hover{
+        color:red;
+        font-weight:bold;
+
+    }
+    .scrolltext
+    {
+    background-color:#ffff00; color:red;
+    }
+
+    .supplementary
+    {
+        font-weight:bold; font-size:20px;
+    }
+
+    .detailheader
+    {
+        color:SlateBlue;"
+    }
+
+    option
+    {
+        text-align:left;
+    }
